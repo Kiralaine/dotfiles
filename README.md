@@ -40,8 +40,8 @@
 </details>
 ---
 ##  Contacts:
-h2><a href="https://t.me/kiralaine">Telegram</a></h2>
-<h2><a href="https://discord.com/users/1332696057741578311">Discord</a></h2>
+<h3><a href="https://t.me/kiralaine">Telegram</a></h3>
+<h3><a href="https://discord.com/users/1332696057741578311">Discord</a></h3>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=9370DB&text=Thanks%20for%20attention🌠&section=footer&reversal=false&textBg=false&fontColor=dadada&fontSize=70&fontAlign=51&animation=fadeIn)
 
