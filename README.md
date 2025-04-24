@@ -1,2 +1,2 @@
-![Wallpapers/stellar.png]
+(Wallpapers/stellar.png)
 > # Stellar dotfiles🌠
