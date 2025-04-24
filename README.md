@@ -39,7 +39,8 @@
    <h3>I want add more utilites and write own programms for Hyprland compositor,i continue work with  Stellar on  KISS philosphy and create custom pkg in AUR</h3>
 </details>
 ---
-##  Contacts:
+
+## Contacts:
 <h3><a href="https://t.me/kiralaine">Telegram</a></h3>
 <h3><a href="https://discord.com/users/1332696057741578311">Discord</a></h3>
 
