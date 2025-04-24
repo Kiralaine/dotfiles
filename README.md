@@ -44,6 +44,7 @@
     <a href="https://discord.com/users/1332696057741578311">Discord</a>
     <h3></h3>
 </div>
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=9370DB&text=Hyprland&section=footer&reversal=false&textBg=false&fontColor=dadada&fontSize=70&fontAlign=51&animation=fadeIn)
 
 
