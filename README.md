@@ -4,6 +4,7 @@
     <h3></h3>
 </div>
 ---
+
 ![stellar-dots-screen](https://github.com/user-attachments/assets/0054d75f-f643-4d47-b317-9350c2849e94)
 
 # Descripton
@@ -39,12 +40,9 @@
 </details>
 ---
 ##  Contacts:
-<div align="center">
-    <a href="https://t.me/kiralaine">Telegram</a>
-    <a href="https://discord.com/users/1332696057741578311">Discord</a>
-    <h3></h3>
-</div>
+h2><a href="https://t.me/kiralaine">Telegram</a></h2>
+<h2><a href="https://discord.com/users/1332696057741578311">Discord</a></h2>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=9370DB&text=Hyprland&section=footer&reversal=false&textBg=false&fontColor=dadada&fontSize=70&fontAlign=51&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=9370DB&text=Thanks%20for%20attention🌠&section=footer&reversal=false&textBg=false&fontColor=dadada&fontSize=70&fontAlign=51&animation=fadeIn)
 
 
